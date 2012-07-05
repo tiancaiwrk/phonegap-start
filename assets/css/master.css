@@ -6,6 +6,12 @@ body {
   text-align: center;
 }
 
+
+
+
+body p {align="center"
+}
+
 #title_bar {
   /* need a position set to something for z-index to take effect */
   position: relative;
